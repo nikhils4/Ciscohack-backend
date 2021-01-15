@@ -1,4 +1,6 @@
-# Pragati ~ Progress begins at home
+# Pragati
+
+## A submission for Cisco Webex hackathon
 
 <p align="justify">Pragati is an online platform that empowers rural housewives to earn money by selling their own authentic self-made products from home & providing reliable services on the go. There are various applications involving e-commerce portals to buy products or exchange old goods for new ones. But, currently, there is no such e-commerce innovation, targeting the backward class, that actually provides a platform to let village-women apply their self-learnt skills to use & start their business. While there are several means and opportunities for urban women to earn, the rural kind is often left to struggle.</p>
 
@@ -24,9 +26,7 @@
 <p align="justify">It is no secret that today some of the most flourishing handicraft and artifact industries once started as small in-house businesses and initiatives taken up by women. But often socially backward women are not given a chance to prove their mettle which leads to the economic downfall as well as heritage loss of the country. As modernisation is transforming the nation, we almost fail to appreciate India’s traditional artifact culture that it was once famous for. Simple and beautiful handmade goods are overlooked and prioritized by imported and branded fancy goods as the country is growing economically. This is an effort from our side to help preserve India’s dying craft culture and uplift the artists who deserve to get much more success and recognition behind the efforts they are putting in the form of their passion and expertise.</p>
 
 
-
 ### [Check out Pragati here!](https://risewithpragati.netlify.app/)
-
 
 
 ## Project Creation
@@ -58,12 +58,6 @@ Link to frontend repo: https://github.com/TheCodeClutch/HackNagpur-Pragati
 1. Database : Atlas MongoDB
 2. The Project is hosted on Netlify and is live at https://risewithpragati.netlify.app/
 3. Backend Server is deployed using Heroku
-
-Demo Video: https://youtu.be/t1fvQQTLldQ
-
-## Project UI
-![Web-Pragati](https://github.com/TheCodeClutch/HackNagpur-Pragati/blob/master/images/Web-home.JPG)
-![PWA-Pragati](https://github.com/TheCodeClutch/HackNagpur-Pragati/blob/master/images/PWA-home.jpeg)
 
 ## Contributors
 
