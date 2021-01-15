@@ -43,7 +43,7 @@
 1. Technical Stack Used: NodeJS, MongoDB, ExpressJS, JWT
 2. Editor Used: VS Code
 
-Link to frontend repo: https://github.com/TheCodeClutch/HackNagpur-Pragati
+Link to frontend repo: https://github.com/mshreya9/Ciscohack-Frontend
 
 ### 3rd Party API's
 
